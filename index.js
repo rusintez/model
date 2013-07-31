@@ -15,3 +15,5 @@ var Model = function(attrs) {
     });
   })
 }
+
+exports = module.exports = Model;
